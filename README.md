@@ -1,0 +1,2 @@
+# MajiangGame
+CodeManager
